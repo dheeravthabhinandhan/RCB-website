@@ -1,0 +1,53 @@
+.color{
+    background-color: brown;
+    display:inline-flex;
+    gap: 10px;
+    height:auto;
+    width: auto;
+
+}
+.white{
+    color:white;
+}
+.playbold{
+    color: white;
+    border: ;
+}
+
+.rcblogo{
+   height: 40px;
+   width: 40px;
+   margin-top: 2em;
+   margin-bottom: 2em;
+   padding: 0px 0px 0px 40px;
+   text-align: center;
+   color: white;
+}
+.ILOVE{
+    background-image: url("https://www.royalchallengers.com/PRRCB01/public/styles/1061x767_landscape/public/2025-04/PMK04072.jpg?itok=G8OXN-QE");
+    height: 1000px;
+    width: 1000px;
+    color: white ;
+    background-repeat: no-repeat;
+    text-align: center ;
+    padding: 300px 0px 0px;
+    
+}
+.black{
+    background-color: black;
+    height: 100px;
+    width: 100px;
+    display: inline-flex;
+}
+.sonu{
+    color: white;
+    background-color: red;
+    font-size: 80px;
+}
+.sonu:hover{
+     text-decoration: ;
+}
+.img{
+    height: 20px;
+    width: 20px;
+}
